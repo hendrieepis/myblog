@@ -1,0 +1,16 @@
+site_name: Blog Saya
+site_description: Catatan teknis seputar IoT dan embedded systems
+site_author: Hendri
+
+nav:
+  - Home: index.md
+  - Meshtastic:
+    - Cara Install: meshtastic/cara-install.md
+    - Cara Penggunaan: meshtastic/cara-penggunaan.md
+  - ESP32: esp32.md
+
+theme:
+  name: material
+  palette:
+    primary: teal
+  language: id
